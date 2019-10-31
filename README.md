@@ -42,4 +42,5 @@ content starts at 4-columns in.
 > if you like.
 
 
- ကျေးဇူးတင်ပါတယ်
+<font color="green"> သတ္တဝါတွေအားလုံး ကျန်းမာ ချမ်းသာ ကြပါစေ။ </font>
+ကျေးဇူးတင်ပါတယ်

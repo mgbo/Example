@@ -13,3 +13,10 @@ for i in range(10):
     time.sleep(0.5)
     print(i)
 ~~~
+ 1. First, get these ingredients:
+
+      * carrots
+      * celery
+      * lentils
+
+ကျေးဇူးတင်ပါတယ်

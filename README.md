@@ -3,6 +3,7 @@ example
 
 # မင်္ဂလာပါ
 
+<<<<<<< HEAD
 # Let me re-iterate ...
 
 ~~~python
@@ -19,4 +20,14 @@ for i in range(10):
       * celery
       * lentils
 
-ကျေးဇူးတင်ပါတယ်
+
+An h2 header
+------------
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
+ 
+ ကျေးဇူးတင်ပါတယ်

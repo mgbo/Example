@@ -43,5 +43,15 @@ content starts at 4-columns in.
 > if you like.
 
 
+[^1]: Some footnote text.
+
+Tables can look like this:
+
+Name           Size  Material      Color
+------------- -----  ------------  ------------
+All Business      9  leather       brown
+Roundabout       10  hemp canvas   natural
+Cinderella       11  glass         transparent
+
 <font color="green"> သတ္တဝါတွေအားလုံး ကျန်းမာ ချမ်းသာ ကြပါစေ။ </font>
 ကျေးဇူးတင်ပါတယ်

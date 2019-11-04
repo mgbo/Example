@@ -1,3 +1,6 @@
 image/
 hello/
+
+
+# Ignore all text files
 *.txt

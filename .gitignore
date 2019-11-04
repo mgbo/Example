@@ -1,4 +1,5 @@
 
-
-image/
+.DS_Store
+.image
 *.pyc
+*.py

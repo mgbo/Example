@@ -61,7 +61,7 @@ Here's a link to [a facebook](https://www.facebook.com/profile.php?id=1000361675
 
 and images can be specified like so:
 
-![example image](hzk.jpg "An exemplary image")
+![example image](\image\Deepika.jpg "An exemplary image")
 
 
 ကျေးဇူးတင်ပါတယ်

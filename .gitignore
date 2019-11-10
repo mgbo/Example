@@ -1,6 +1,8 @@
-image/ # Ignore folder name of the image
-hello/ # Ignore folder name of the image
+# ignore all .pdf files in the doc/ directory and any of its subdirectories
+image/**/*.jpg
 
+
+py_test/
 
 
 # Ignore all text files

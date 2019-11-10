@@ -63,4 +63,7 @@ and images can be specified like so:
 
 
 [စာအုပ်](https://github.com/mgbo/py_test/blob/master/toread/Программирование_Scratch.pdf) <br/>
+
+![example image](chitthu/Myanmar_Bagan_Pagoda.jpg "An exemplary image") <br/>
+
 ကျေးဇူးတင်ပါတယ်

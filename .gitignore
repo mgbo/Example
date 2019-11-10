@@ -1,9 +1,2 @@
-# ignore all .pdf files in the doc/ directory and any of its subdirectories
-image/**/*.jpg
-
-
-py_test/
-
-
-# Ignore all text files
-*.txt
+__pycache__/
+*.py[cod]

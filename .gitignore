@@ -1,5 +1,6 @@
-image/
-hello/
+image/ # Ignore folder name of the image
+hello/ # Ignore folder name of the image
+
 
 
 # Ignore all text files

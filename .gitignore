@@ -4,3 +4,6 @@ test.py
 *.exe
 chitthu/
 image/**/*.jpg
+
+file.txt
+/good

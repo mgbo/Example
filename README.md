@@ -52,6 +52,16 @@ Note that --- not considering the asterisk --- the actual text content starts at
 
 Here's a link to [a facebook](https://www.facebook.com/profile.php?id=100036167504749)
 
+[^1]: Some footnote text.
+
+Tables can look like this:
+
+Name           Size  Material      Color
+------------- -----  ------------  ------------
+All Business      9  leather       brown
+Roundabout       10  hemp canvas   natural
+Cinderella       11  glass         transparent
+
 <font color="green"> သတ္တဝါတွေအားလုံး ကျန်းမာ ချမ်းသာ ကြပါစေ။ </font>
 
 | အမည် | ကျောင်းသားနံပါတ် |
